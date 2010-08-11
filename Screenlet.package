@@ -1,0 +1,7 @@
+[Screenlet Package]
+Name=Disk I/O Space Screenlet
+Author=Erdem U. Altinyurt
+Desc=A screenlet that displays free/used space and I/O information for selected hard drives. Based on DiskSpace Screenlet by Can Berk Güder
+Version=0.5
+ApiVersion=0.0.12
+Created=2009/12//19
